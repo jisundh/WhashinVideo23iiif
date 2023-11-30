@@ -1,0 +1,15 @@
+{
+  "id" : "https://jisundh.github.io/WhashinVideo23iiif/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in jisundh/WhashinVideo23iiif project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://jisundh.github.io/WhashinVideo23iiif/manifests/videomanifest.json",
+    "label" : {
+      "en" : [ "Whashin Department Store Videos" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
