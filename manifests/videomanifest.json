@@ -1,0 +1,289 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://jisundh.github.io/WhashinVideo23iiif/manifests/videomanifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Whashin Department Store Videos" ]
+  },
+  "items" : [ {
+    "id" : "/config/manifest-templates/blank.json/canvas/1faf5b52-0aaa-4fa6-aff5-072676c58a60",
+    "type" : "Canvas",
+    "height" : 914,
+    "width" : 1414,
+    "duration" : 61.068367,
+    "label" : {
+      "en" : [ "〈Mimong〉 whashin scene1" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "SourceUrl" ]
+      },
+      "value" : {
+        "en" : [ "https://www.kmdb.or.kr/db/kor/detail/movie/K/00121" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "Color" ]
+      },
+      "value" : {
+        "en" : [ "Grayscale" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "ReleaseYear" ]
+      },
+      "value" : {
+        "en" : [ "1936" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "KoTitle" ]
+      },
+      "value" : {
+        "en" : [ "미몽(죽음의 자장가)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "EngTitle" ]
+      },
+      "value" : {
+        "en" : [ "Sweet Dream (Lullaby of Death) (Mimong)" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "The video is a scene from the movie 〈Mimong〉, which features the children's and women's departments inside Whashin Department Store East Building." ]
+    },
+    "items" : [ {
+      "id" : "/config/manifest-templates/blank.json/canvas/1faf5b52-0aaa-4fa6-aff5-072676c58a60/annotation-page/ee53e0a2-3a31-4a75-9af2-2387589e8d32",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "/config/manifest-templates/blank.json/annotation/523ebb28-290b-4337-89b7-3bbf4e79256f",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "/config/manifest-templates/blank.json/canvas/1faf5b52-0aaa-4fa6-aff5-072676c58a60",
+        "body" : {
+          "id" : "https://archive.org/download/mimong_whashin1/mimong_whashin1.mp4",
+          "type" : "Video",
+          "format" : "video/mp4",
+          "height" : 914,
+          "width" : 1414,
+          "duration" : 61.068367
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "/config/manifest-templates/blank.json/canvas/5d8232fc-f994-450f-955b-a1c66416f372",
+    "type" : "Canvas",
+    "height" : 914,
+    "width" : 1414,
+    "duration" : 38.312857,
+    "label" : {
+      "en" : [ "〈Mimong〉 whashin scene2" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "SourceUrl" ]
+      },
+      "value" : {
+        "en" : [ "https://www.kmdb.or.kr/db/kor/detail/movie/K/00121" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "color" ]
+      },
+      "value" : {
+        "en" : [ "Grayscale" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "ReleaseYear" ]
+      },
+      "value" : {
+        "en" : [ "1936" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "KoTitle" ]
+      },
+      "value" : {
+        "en" : [ "미몽(죽음의 자장가)" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "EngTitle" ]
+      },
+      "value" : {
+        "en" : [ "Sweet Dream (Lullaby of Death) (Mimong)" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "The video is a scene from the movie 〈Mimong〉, which features a restaurant inside Whashin Department Store East Building." ]
+    },
+    "items" : [ {
+      "id" : "/config/manifest-templates/blank.json/canvas/5d8232fc-f994-450f-955b-a1c66416f372/annotation-page/57b78dc1-d4dc-432a-8147-efb1c35ce51f",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "/config/manifest-templates/blank.json/annotation/69a8549f-7645-4842-9ce7-15d698a263e0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "/config/manifest-templates/blank.json/canvas/5d8232fc-f994-450f-955b-a1c66416f372",
+        "body" : {
+          "id" : "https://archive.org/download/mimong_whashin2/mimong_whashin2.mp4",
+          "type" : "Video",
+          "format" : "video/mp4",
+          "height" : 914,
+          "width" : 1414,
+          "duration" : 38.312857
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "/config/manifest-templates/blank.json/canvas/f50424c1-cc59-4a8c-8d45-b3f95ddec7e3",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "〈Gyeongseong〉 whashin scene1" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "SourceUrl" ]
+      },
+      "value" : {
+        "en" : [ "https://www.kmdb.or.kr/db/kor/detail/movie/A/02231" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "color" ]
+      },
+      "value" : {
+        "en" : [ "Grayscale" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "FilmingYear" ]
+      },
+      "value" : {
+        "en" : [ "1939" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "ReleaseYear" ]
+      },
+      "value" : {
+        "en" : [ "1940" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "KoTitle" ]
+      },
+      "value" : {
+        "en" : [ "경성" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "ChinTitle" ]
+      },
+      "value" : {
+        "en" : [ "京城" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "EngTitle" ]
+      },
+      "value" : {
+        "en" : [ "Gyeongseong" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "The video is a scene from the movie 〈Gyeongseong〉, which shows Whashin Department Store New Building and East Building." ]
+    },
+    "items" : [ {
+      "id" : "/config/manifest-templates/blank.json/canvas/f50424c1-cc59-4a8c-8d45-b3f95ddec7e3/annotation-page/19cccc1e-3ce5-4928-a53b-b376bd5233de",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "/config/manifest-templates/blank.json/annotation/46d32052-27a5-47d6-aac5-582ec2ab5cf5",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "/config/manifest-templates/blank.json/canvas/f50424c1-cc59-4a8c-8d45-b3f95ddec7e3",
+        "body" : {
+          "id" : "https://archive.org/download/gyeongseong-whashin-1/Gyeongseong_whashin1.mp4",
+          "type" : "Video",
+          "format" : "video/mp4"
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "/config/manifest-templates/blank.json/canvas/dc62c3e9-2bfc-4bcf-ab89-aa56b509197f",
+    "type" : "Canvas",
+    "label" : {
+      "en" : [ "〈Gyeongseong〉 whashin scene2" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "SourceUrl" ]
+      },
+      "value" : {
+        "en" : [ "https://www.kmdb.or.kr/db/kor/detail/movie/A/02231" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "color" ]
+      },
+      "value" : {
+        "en" : [ "Grayscale" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "FilmingYear" ]
+      },
+      "value" : {
+        "en" : [ "1939" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "ReleaseYear" ]
+      },
+      "value" : {
+        "en" : [ "1940" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "KoTitle" ]
+      },
+      "value" : {
+        "en" : [ "경성" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "ChinTitle" ]
+      },
+      "value" : {
+        "en" : [ "京城" ]
+      }
+    }, {
+      "label" : {
+        "en" : [ "EngTitle" ]
+      },
+      "value" : {
+        "en" : [ "Gyeongseong" ]
+      }
+    } ],
+    "summary" : {
+      "en" : [ "The video is a scene from the movie 〈Gyeongseong〉, which shows a dispaly window of Whashin department store." ]
+    },
+    "items" : [ {
+      "id" : "/config/manifest-templates/blank.json/canvas/dc62c3e9-2bfc-4bcf-ab89-aa56b509197f/annotation-page/00898488-da05-4706-9620-0cdae9d75d48",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "/config/manifest-templates/blank.json/annotation/a7a03762-c2a7-4f66-a8b5-5c8e150e8fa7",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "/config/manifest-templates/blank.json/canvas/dc62c3e9-2bfc-4bcf-ab89-aa56b509197f",
+        "body" : {
+          "id" : "https://archive.org/download/gyeongseong-whashin-2/Gyeongseong_whashin2.mp4",
+          "type" : "Video",
+          "format" : "video/mp4"
+        }
+      } ]
+    } ]
+  } ]
+}
